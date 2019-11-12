@@ -1,13 +1,13 @@
- # The Knight of Apocalypse
- 
-## We made this game using Babylon.js
-
-It is a 3D browser game made using BabylonJS (Webgl library).
+ # The Knight
+ ## We made this game using Babylon.js
+# About
+	It is a 3D browser game made using BabylonJS (Webgl library).
 	You can see images in game_images in files.
 	
-	Useful links:
+# Useful links:
 		The Game: https://theknight.herokuapp.com/
-	Note: This game has huge amount of resourses(152MB) so please be patient.
+# Note: 
+	This game has huge amount of resourses(152MB) so please be patient.
 	In case it doesn't load after some time, refresh the page.
 	
 	To see the progress open network tab in developers tools.
@@ -15,5 +15,4 @@ It is a 3D browser game made using BabylonJS (Webgl library).
 	
 	Work is still going on to improve this game and compress the resources and
 	make this a multiplayer game.
-# 0The_knight_game
-# custom_google_map_library
+

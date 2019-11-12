@@ -1,5 +1,5 @@
  # The Knight
-# About
+# About:
 It is a 3D browser game made using BabylonJS (Webgl library).
 You can see images in game_images in files.
 	
@@ -12,6 +12,7 @@ In case it doesn't load after some time, refresh the page.
 To see the progress open network tab in developers tools.
 If its still not loading you can see the images of it in files.
 
+# Future Updates on:
 Work is still going on to improve this game and compress the resources and
 make this a multiplayer game.
 
